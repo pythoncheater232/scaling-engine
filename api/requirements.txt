@@ -1,2 +1,4 @@
 requests
 httpagentparser
+Flask
+vercel_wsgi
